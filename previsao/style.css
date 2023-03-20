@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 500px;
+
+}
+.numero{
+    font-size: 70px;
+    margin: 0;
+}
+.nuvem{
+    margin-top: 100px;
+}
